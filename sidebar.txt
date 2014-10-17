@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zga:home|Door43 (zga)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zga|d43-zga repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zga/archive/master.zip|d43-zga.zip]]
+
+**Recent Changes**
+{{changes>ns = zga}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zga|Ethnologue data]]
+
